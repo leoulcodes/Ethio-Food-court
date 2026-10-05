@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: #fffaf7;
+  color: #1a1817;
+  font-family: Arial, sans-serif;
+}
+
+button, input { font: inherit; }

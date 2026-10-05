@@ -1,0 +1,151 @@
+{
+  "data": [
+    {
+      "id": "menu-1",
+      "slug": "doro-wat",
+      "nameEn": "Classic Doro Wat",
+      "nameAm": "የዶሮ ወጥ",
+      "category": "Traditional Stews & Wat",
+      "priceETB": 650,
+      "spiceLevel": "Fiery Berbere (3/3)",
+      "isFasting": false,
+      "isSpecial": true,
+      "description": "Slow-cooked chicken in berbere and clarified butter, served with injera.",
+      "ingredients": [
+        "chicken",
+        "berbere",
+        "niter kibbeh",
+        "onion"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-2",
+      "slug": "siga-wat",
+      "nameEn": "Siga Wat",
+      "nameAm": "የስጋ ወጥ",
+      "category": "Traditional Stews & Wat",
+      "priceETB": 620,
+      "spiceLevel": "Hot",
+      "isFasting": false,
+      "isSpecial": false,
+      "description": "Tender beef simmered in a rich berbere sauce.",
+      "ingredients": [
+        "beef",
+        "berbere",
+        "onion"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-3",
+      "slug": "siga-derek-tibs",
+      "nameEn": "Siga Derek Tibs",
+      "nameAm": "ስጋ ደረቅ ጥብስ",
+      "category": "Tibs & Grills",
+      "priceETB": 700,
+      "spiceLevel": "Medium",
+      "isFasting": false,
+      "isSpecial": true,
+      "description": "Sizzling beef cubes with rosemary, peppers and onions.",
+      "ingredients": [
+        "beef",
+        "pepper",
+        "rosemary",
+        "onion"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-4",
+      "slug": "prime-beef-kitfo",
+      "nameEn": "Prime Beef Kitfo",
+      "nameAm": "ክትፎ",
+      "category": "Raw & Cured Delicacies / Kitfo",
+      "priceETB": 750,
+      "spiceLevel": "Mild",
+      "isFasting": false,
+      "isSpecial": true,
+      "description": "Finely minced beef seasoned with mitmita and clarified butter.",
+      "ingredients": [
+        "beef",
+        "mitmita",
+        "niter kibbeh"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-5",
+      "slug": "full-vegan-beyaynetu",
+      "nameEn": "Full Vegan Beyaynetu",
+      "nameAm": "የጾም በያይነቱ",
+      "category": "Fasting & Vegan / Tsom",
+      "priceETB": 560,
+      "spiceLevel": "Mild",
+      "isFasting": true,
+      "isSpecial": false,
+      "description": "A colorful fasting platter of legumes, vegetables and injera.",
+      "ingredients": [
+        "lentils",
+        "chickpeas",
+        "greens",
+        "injera"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-6",
+      "slug": "misir-wat",
+      "nameEn": "Misir Wat",
+      "nameAm": "ምስር ወጥ",
+      "category": "Fasting & Vegan / Tsom",
+      "priceETB": 380,
+      "spiceLevel": "Hot",
+      "isFasting": true,
+      "isSpecial": false,
+      "description": "Red lentils slowly cooked with berbere and aromatics.",
+      "ingredients": [
+        "red lentils",
+        "berbere",
+        "onion"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-7",
+      "slug": "gomen-collards",
+      "nameEn": "Gomen Collards",
+      "nameAm": "ጎመን",
+      "category": "Fasting & Vegan / Tsom",
+      "priceETB": 300,
+      "spiceLevel": "Mild",
+      "isFasting": true,
+      "isSpecial": false,
+      "description": "Slow-cooked collard greens with garlic and spices.",
+      "ingredients": [
+        "collards",
+        "garlic",
+        "spices"
+      ],
+      "servings": 1
+    },
+    {
+      "id": "menu-8",
+      "slug": "house-tej-carafe",
+      "nameEn": "House Tej Carafe",
+      "nameAm": "የቤት ጠጅ",
+      "category": "Beverages & Tej",
+      "priceETB": 550,
+      "spiceLevel": "Sweet",
+      "isFasting": false,
+      "isSpecial": false,
+      "description": "Traditional honey wine served chilled.",
+      "ingredients": [
+        "honey",
+        "water",
+        "gesho"
+      ],
+      "servings": 2
+    }
+  ]
+}
