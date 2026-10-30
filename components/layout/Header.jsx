@@ -17,6 +17,8 @@ export default function Header() {
         <nav className="hidden items-center gap-8 text-sm font-medium md:flex">
           <Link href="/menu" className="hover:text-brand-terracotta">Menu</Link>
           <Link href="/cart" className="hover:text-brand-terracotta">Order & Cart</Link>
+          <Link href="/signin" className="hover:text-brand-terracotta">Sign In</Link>
+          <Link href="/register" className="hover:text-brand-terracotta">Register</Link>
         </nav>
 
         <CartSummary />
